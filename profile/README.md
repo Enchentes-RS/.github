@@ -1,9 +1,23 @@
-## Hi there 👋
+# Enchentes RS
 
-**Here are some ideas to get you started:**
+Conseguimos uma planilha de Centros Voluntários aqui da região e os voluntários estão fazendo inicialmente a versão web para facilitar a visualização.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Este aplicativo tem o potencial de ser uma plataforma essencial para a coordenação de esforços de auxílio, distribuição de recursos, ou qualquer outra funcionalidade que possa mitigar os impactos dessa catástrofe. Ainda estamos definindo as especificações exatas do aplicativo, e contamos com a colaboração de voluntários para moldar essa ferramenta conforme as necessidades emergentes.
+
+
+- [Grupo de Whats está aberto](https://chat.whatsapp.com/BaBFBXKxw8KCp96PZKeGwV)
+- [Figma Oficial](https://www.figma.com/file/uS76X7hk00tXbR56dfAL71/Voluntários-Devs-Pelo-RS?type=design&node-id=5-5&mode=design&t=KiBoAflvYrovhtPf-0)
+
+
+## Pessoas de Referência
+
+**UI/UX**
+
+- Julia Moresco
+
+## Front-End
+
+- João Paulo
+- Mateus
+- Gabriel Souza
+- Daniel Rambo
