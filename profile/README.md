@@ -26,5 +26,6 @@ Este aplicativo tem o potencial de ser uma plataforma essencial para a coordena√
 
 ## Geral
 
-- Leandro Carvalho
 - Michel Lutz
+- Leandro Carvalho
+
