@@ -24,6 +24,10 @@ Este aplicativo tem o potencial de ser uma plataforma essencial para a coordena√
 - Gabriel Souza
 - Daniel Rambo
 
+## Mobile iOS
+
+- Rodrigo Torres
+
 ## Geral
 
 - Michel Lutz
