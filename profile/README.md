@@ -5,6 +5,8 @@ Conseguimos uma planilha de Centros Voluntários aqui da região e os voluntári
 Este aplicativo tem o potencial de ser uma plataforma essencial para a coordenação de esforços de auxílio, distribuição de recursos, ou qualquer outra funcionalidade que possa mitigar os impactos dessa catástrofe. Ainda estamos definindo as especificações exatas do aplicativo, e contamos com a colaboração de voluntários para moldar essa ferramenta conforme as necessidades emergentes.
 
 
+> Quando entrar no grupo se apresente e diga sua especialidade e como pode ajudar.
+
 - [Grupo de Whats está aberto](https://chat.whatsapp.com/BaBFBXKxw8KCp96PZKeGwV)
 - [Figma Oficial](https://www.figma.com/file/uS76X7hk00tXbR56dfAL71/Voluntários-Devs-Pelo-RS?type=design&node-id=5-5&mode=design&t=KiBoAflvYrovhtPf-0)
 
@@ -21,3 +23,8 @@ Este aplicativo tem o potencial de ser uma plataforma essencial para a coordena�
 - Mateus
 - Gabriel Souza
 - Daniel Rambo
+
+## Geral
+
+- Leandro Carvalho
+- Michel Lutz
