@@ -23,6 +23,7 @@ Este aplicativo tem o potencial de ser uma plataforma essencial para a coordena√
 - Mateus
 - Gabriel Souza
 - Daniel Rambo
+- Adeonir Kohl
 
 ## Mobile iOS
 
