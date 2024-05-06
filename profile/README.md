@@ -7,15 +7,6 @@ Este aplicativo tem o potencial de ser uma plataforma essencial para a coordena�
 
 > Quando entrar no grupo se apresente e diga sua especialidade e como pode ajudar.
 
-- [Grupo de Whats está aberto](https://chat.whatsapp.com/BaBFBXKxw8KCp96PZKeGwV)
-
-- [Grupo de Whats Back-End](https://chat.whatsapp.com/JmE5iGgiQaf0ctCstaAF4R)
-
-- [Grupo de Whats Front-End](https://chat.whatsapp.com/EGQSLwiaxpV9TomXOloAu0)
-
-- [Grupo de Whats Mobile](https://chat.whatsapp.com/LLR0SjUKAQ5IsZ651nNkbY)
-
-- [Grupo de Whats UI/UX](https://chat.whatsapp.com/GJ0SR0pHIIF9nolEIYkcGp)
 
 - [Figma Oficial](https://www.figma.com/file/uS76X7hk00tXbR56dfAL71/Voluntários-Devs-Pelo-RS?type=design&node-id=5-5&mode=design&t=KiBoAflvYrovhtPf-0)
 
